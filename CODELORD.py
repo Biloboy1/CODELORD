@@ -40,7 +40,7 @@ ___logo___ = (f"""{H}
 {H}[{P}>{K}]{H}| ® VERSION➣➣➣➣50.0            {}    
 {H}[{P}>{K}]{H}| ® TOOLNAME➣➣➣➣CODELORD       {}  
 {H}[{P}•{K}]{H}——————————————————————————————-----
-
+""")
 def xoshnaw(): 
   uuid = str(os.geteuid()) + str(os.getlogin()) 
   id = "-".join(uuid) 
