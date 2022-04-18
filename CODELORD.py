@@ -28,18 +28,18 @@ ___logo___ = (f"""{H}
  \______  /___|  /\____/____  > |__| /____  >____/|___|  /
 
         \/     \/           \/            \/           \/ 
-{K}[{P}•{K}]{P} _________________________________
-{H}[{P}>{K}]{H}                                 |
-{H}[{P}>{K}]{H}                                 |
-{H}[{P}>{K}]{H}                                 |
-{H}[{P}>{K}]{H}                                 |
-{H}[{P}>{K}]{H} ® AUTHOR➣➣➣➣GHOSTON          {} 
-{H}[{P}>{K}]{H} ® WHATSAPP➣➣➣2349138017570    |
-{H}[{P}>{K}]{H} ® INSTAGRA➣➣➣Iam Ghostwizard  |  
-{H}[{P}>{K}]{H} ® GITHUB➣➣➣➣Ghostson         {}  
-{H}[{P}>{K}]{H} ® VERSION➣➣➣➣50.0            {}    
-{H}[{P}>{K}]{H} ® TOOLNAME➣➣➣➣CODELORD       {}  
-{K}[{P}•{K}]{P}——————————————————————————————-
+{K}[{P}•{K}]{P} _____________________________
+{H}[{P}>{K}]{H}                                 
+{H}[{P}>{K}]{H}                                 
+{H}[{P}>{K}]{H}                                 
+{H}[{P}>{K}]{H}                                 
+{H}[{P}>{K}]{H} ® AUTHOR➣➣➣➣GHOSTON          
+{H}[{P}>{K}]{H} ® WHATSAPP➣➣➣2349138017570    
+{H}[{P}>{K}]{H} ® INSTAGRA➣➣➣Iam Ghostwizard    
+{H}[{P}>{K}]{H} ® GITHUB➣➣➣➣Ghostson         
+{H}[{P}>{K}]{H} ® VERSION➣➣➣➣50.0            
+{H}[{P}>{K}]{H} ® TOOLNAME➣➣➣➣CODELORD         
+{K}[{P}•{K}]{P}——————————————————————————————
 """)
 def xoshnaw(): 
   uuid = str(os.geteuid()) + str(os.getlogin()) 
